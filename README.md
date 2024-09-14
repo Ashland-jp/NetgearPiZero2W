@@ -1,4 +1,5 @@
-# Netgear Nighthawk WiFi Extender shell with Raspberry Pi Zero2W installed(this write up is WIP)
+# Netgear Nighthawk WiFi Extender gutted 
+# for Raspberry Pi Zero2W installed(this write up is WIP)
 
 ## Introduction
 
@@ -27,9 +28,10 @@ In this project, I transformed a Netgear Nighthawk WiFi extender into a compact 
 
 ### 3. Modifying the iPhone Charger
 
-- Open up the old 1A iPhone charger and solder the leads to the outlet prongs. This will be used to power the Raspberry Pi.
+- I cut open the 1 amp iPhone charger leaving 90% intact only removing one side.
+- I then soldered the leads to the outlet prongs. 
 - Secure the soldered connections with hot glue to ensure durability and safety.
-
+ This will be used to power the Raspberry Pi safely.
 ### 4. Integration into the Extender Case
 
 - Place the Raspberry Pi Zero2W into the now-empty WiFi extender case. Position it carefully to maximize space and airflow.
