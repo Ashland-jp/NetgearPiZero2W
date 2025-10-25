@@ -1,5 +1,6 @@
 # Netgear Nighthawk WiFi Extender gutted 
-# for Raspberry Pi Zero2W installed(**this write up is WIP**)
+# for Raspberry Pi Zero 2W 
+## missing instructions for pihole***
 
 ## Introduction
 
@@ -59,7 +60,7 @@ In this project, I transformed a Netgear Nighthawk WiFi extender into an Ad bloc
 
 - 
 - Power up the modified WiFi extender and verify that the Raspberry Pi Zero2W boots correctly and operates as expected.
-- Test connectivity and functionality of PiTail Kali to confirm that it’s working correctly in the new setup.
+- NEXT SECTION UNDER CONSTRUCTION
 
 ## Final Touches
 
